@@ -1,5 +1,1 @@
-This is an example file for reflection in IBI1_2025-26.
-
-During this course, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python.
-
-I am going to edit this file to show changes in the lecture
+IBI let me feel a little confused because the commands are too many to remember, and I always get an error in the terminal. But IBI is also interesting. I think using terminal to control computer is an amazing thing. 
